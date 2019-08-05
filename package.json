@@ -1,0 +1,23 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "Dating app for matching Users based on their survey results",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seankish/friend-finder.git"
+  },
+  "author": "Sean Kish",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seankish/friend-finder/issues"
+  },
+  "homepage": "https://github.com/seankish/friend-finder#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
